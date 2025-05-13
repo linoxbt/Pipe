@@ -7,7 +7,8 @@ This script automates the setup of a POP Cache Node for the Pipe Network Testnet
    ```bash
    chmod +x setup_popcache_node.sh
    ```
-3. Run: ```bash
+3. Run:
+   ```bash
    sudo ./setup_popcache_node.sh```
 5. Follow prompts to enter Invite Code, Solana Wallet Address, etc.
 
